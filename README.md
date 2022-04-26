@@ -1,17 +1,17 @@
 # Content
  
  * [Audio](#Audio)
- * [Computer Vision](#Computer Vision)
+ * [Computer Vision](#Computer-Vision)
  * [Optimization](#Optimization)
- * [Representation Learning](#Representation Learning)
+ * [Representation Learning](#Representation-Learning)
 
 
-# Audio
+## Audio
 
-# Computer Visison
+## Computer Visison
 
-# Optimization
+## Optimization
 
-# Representation Learning
+## Representation Learning
 
 
