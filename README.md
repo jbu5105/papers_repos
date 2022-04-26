@@ -1,12 +1,12 @@
 # Content
  
  * Papers
-  * [Audio](#Audio)
-   * [Text-To-Speech](#Text-To-Speech) 
-  * [Computer Vision](#Computer-Vision)
-  * [Optimization](#Optimization)
-  * [Representation Learning](#Representation-Learning)
-  * [Neural Network Dynamics](#Neural-Network-Dynamics)
+     * [Audio](#Audio)
+         - [Text-To-Speech](#Text-To-Speech) 
+     * [Computer Vision](#Computer-Vision)
+     * [Optimization](#Optimization)
+     * [Representation Learning](#Representation-Learning)
+     * [Neural Network Dynamics](#Neural-Network-Dynamics)
 
 
 # Papers
