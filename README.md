@@ -33,4 +33,4 @@
 
 ## Aritificial General Intelligence
 
-- [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](ttps://arxiv.org/abs/2107.14795) (ICLR 2022)
+- [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795) (ICLR 2022)
