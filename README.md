@@ -26,6 +26,8 @@
  - [ ] [Exploring the Limits of Large Scale Pre-training](https://arxiv.org/pdf/2110.02095.pdf)
 
 ## Representation Learning
+ 
+ - [ ] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (2021)
 
 ## Neural Network Dynamics
 
