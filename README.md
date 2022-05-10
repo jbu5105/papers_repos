@@ -29,6 +29,7 @@
 ## Representation Learning
  
  - [ ] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (2021)
+ - [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) (2018)
 
 ## Neural Network Dynamics
 
