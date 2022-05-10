@@ -23,7 +23,8 @@
 
 ## Optimization
  
- - [ ] [Exploring the Limits of Large Scale Pre-training](https://arxiv.org/pdf/2110.02095.pdf)
+ - [ ] [Exploring the Limits of Large Scale Pre-training](https://arxiv.org/pdf/2110.02095.pdf)(2021)
+ - [ ] [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) (2017)
 
 ## Representation Learning
  
