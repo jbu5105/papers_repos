@@ -28,7 +28,7 @@
  - [ ] [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/pdf/1712.00409.pdf) (2017)
 
 ## Representation Learning
- 
+ - [ ] [On the duality between contrastive and non-contrastive self-supervised learning](https://arxiv.org/pdf/2206.02574.pdf)(2022)
  - [ ] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (2021) [[repo](https://github.com/openai/CLIP)]
  - [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) (2018)
  - [ ] [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) (2019)
