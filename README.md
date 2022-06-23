@@ -19,6 +19,7 @@
 
 ### Representation Learning
  - [ ] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/pdf/2206.04769.pdf) (2022)
+ - [ ] [Towards Learning Universal Aaudio Representations](https://arxiv.org/pdf/2111.12124.pdf) (ICASSP 2022)
 
 ## Computer Visison
 
