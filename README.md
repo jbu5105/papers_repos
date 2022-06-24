@@ -15,7 +15,7 @@
 ## Audio
 ### Text-To-Speech (TTS)
  - [ ] [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103)(2021)
- - [x] [Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning](https://arxiv.org/abs/2109.11115)(ICASSP 2022)
+ - [x] [Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning](https://arxiv.org/abs/2109.11115) (ICASSP 2022)
 
 ### Representation Learning
  - [ ] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/pdf/2206.04769.pdf) (2022)
