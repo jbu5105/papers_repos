@@ -23,8 +23,7 @@ Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2022)
 ### Representation Learning
  - [ ] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/pdf/2206.04769.pdf) (2022)
  - [ ] [Towards Learning Universal Aaudio Representations](https://arxiv.org/pdf/2111.12124.pdf) (ICASSP 2022)
- - [ ] [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/abs/2205.07547) (ICML 2022)
- - [ ] [Towards a General Purpose CNN for Long Range Dependencies in ND](https://arxiv.org/pdf/2206.03398.pdf) (ICML 2022)
+
 
 ## Computer Vision
 
@@ -41,6 +40,8 @@ Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2022)
  - [ ] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (2021) [[repo](https://github.com/openai/CLIP)]
  - [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) (2018)
  - [ ] [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/pdf/1906.00910.pdf) (2019)
+ - [ ] [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/abs/2205.07547) (ICML 2022)
+ - [ ] [Towards a General Purpose CNN for Long Range Dependencies in ND](https://arxiv.org/pdf/2206.03398.pdf) (ICML 2022)
 
 ## Neural Network Dynamics
 
