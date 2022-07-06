@@ -24,6 +24,7 @@ Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2022)
  - [ ] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/pdf/2206.04769.pdf) (2022)
  - [ ] [Towards Learning Universal Aaudio Representations](https://arxiv.org/pdf/2111.12124.pdf) (ICASSP 2022)
  - [ ] [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/abs/2205.07547) (ICML 2022)
+ - [ ] [Towards a General Purpose CNN for Long Range Dependencies in ND] (https://arxiv.org/pdf/2206.03398.pdf) (ICML 2022)
 
 ## Computer Visison
 
