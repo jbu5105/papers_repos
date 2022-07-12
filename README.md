@@ -3,6 +3,7 @@
  * [Papers](#Papers)
      * [Audio](#Audio)
          - [Text-To-Speech-(TTS)](#Text-To-Speech-(TTS)) 
+         - [Music](#Music)
      * [Computer Vision](#Computer-Vision)
      * [Natural Language Processing](#Natural-Language-Processing-(NLP))
      * [Optimization](#Optimization)
@@ -18,6 +19,8 @@
  - [x] [Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning](https://arxiv.org/abs/2109.11115) (ICASSP 2022)
  - [ ] [One TTS Alignment To Rule Them All](https://arxiv.org/pdf/2108.10447.pdf) (ICASSP 2022)
  - [ ] [RAD-TTS: Parallel Flow-Based TTS with Robust Alignment Learning and
+ ### Music
+ - [ ] [CRASH: Raw Audio Score-based Generative Modeling for Controllable High-resolution Drum Sound Synthesis](https://arxiv.org/abs/2106.07431) (2022)
 Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2022)
 
 ### Representation Learning
