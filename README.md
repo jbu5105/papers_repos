@@ -18,7 +18,7 @@
  - [ ] [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103)(2021)
  - [x] [Unet-TTS: Improving Unseen Speaker and Style Transfer in One-shot Voice Cloning](https://arxiv.org/abs/2109.11115) (ICASSP 2022)
  - [ ] [One TTS Alignment To Rule Them All](https://arxiv.org/pdf/2108.10447.pdf) (ICASSP 2022)
- - [ ] [RAD-TTS: Parallel Flow-Based TTS with Robust Alignment Learning and
+ - [ ] [RAD-TTS: Parallel Flow-Based TTS with Robust Alignment Learning and Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2021)
  ### Music
  - [ ] [CRASH: Raw Audio Score-based Generative Modeling for Controllable High-resolution Drum Sound Synthesis](https://arxiv.org/abs/2106.07431) (2022)
 
