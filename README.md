@@ -21,7 +21,6 @@
  - [ ] [RAD-TTS: Parallel Flow-Based TTS with Robust Alignment Learning and
  ### Music
  - [ ] [CRASH: Raw Audio Score-based Generative Modeling for Controllable High-resolution Drum Sound Synthesis](https://arxiv.org/abs/2106.07431) (2022)
-Diverse Synthesis](https://openreview.net/pdf?id=0NQwnnwAORi) (2022)
 
 ### Representation Learning
  - [ ] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/pdf/2206.04769.pdf) (2022)
